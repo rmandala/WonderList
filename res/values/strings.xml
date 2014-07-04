@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wunderlist</string>
+    <string name="hello_world">Wunderlist Todo App!</string>
+    <string name="add_todo_item">Add</string>
+    <string name="add_todo_item_hint">Enter a new Todo item</string>
+</resources>
